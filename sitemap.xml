@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/1.0"
+      xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/1.0 https://www.sitemaps.org/schemas/sitemap/1.0/sitemap.xsd">
+
+  <url>
+    <loc>https://colgasjamundi.000webhostapp.com/</loc>
+    <lastmod>2024-06-04T08:57:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://colgasjamundi.000webhostapp.com/nosotros.html</loc>
+    <lastmod>2024-06-04T08:55:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://colgasjamundi.000webhostapp.com/Redes.html</loc>
+    <lastmod>2024-06-03T15:20:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://colgasjamundi.000webhostapp.com/Ubicacion.html</loc>
+    <lastmod>2024-06-02T10:12:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+   <url>
+    <loc>https://colgasjamundi.000webhostapp.com/Informacion.html</loc>
+    <lastmod>2024-06-02T10:12:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
